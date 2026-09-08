@@ -1,0 +1,14 @@
+Sales Summary Report
+====================
+Total Sales: $2,012.20
+
+Sales Files Processed:
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\sales.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\201\sales.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\201\salestotals.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\202\sales.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\202\salestotals.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\203\sales.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\203\salestotals.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\204\sales.json
+- C:\Users\David Fontes\Desktop\BYU\CSE325.002 - .NET Software Development\mslearn-dotnet-files\stores\204\salestotals.json
